@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#v=210514
+#v=21051401
 
 CACHE:
 /css/jbp.css
@@ -12,6 +12,7 @@ CACHE:
 
 
 /img/code.jpg
+/img/shareMask.png
 
 /js/base64.js
 /js/clipboard.min.js
